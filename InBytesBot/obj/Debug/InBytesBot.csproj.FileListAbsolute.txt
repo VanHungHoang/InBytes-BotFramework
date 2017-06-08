@@ -1,0 +1,42 @@
+D:\Project\InBytes-BotFramework\InBytesBot\obj\Debug\InBytesBot.csprojResolveAssemblyReference.cache
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Bot Application.dll.config
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Bot Application.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Bot Application.pdb
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Autofac.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Chronic.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.Bot.Builder.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.Bot.Connector.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Newtonsoft.Json.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.Net.Http.Formatting.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.Web.Http.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.Web.Http.WebHost.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Autofac.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.Bot.Builder.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.Bot.Connector.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\Newtonsoft.Json.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.Net.Http.Formatting.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.Web.Http.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\System.Web.Http.WebHost.xml
+D:\Project\InBytes-BotFramework\InBytesBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Project\InBytes-BotFramework\InBytesBot\obj\Debug\Bot Application.dll
+D:\Project\InBytes-BotFramework\InBytesBot\obj\Debug\Bot Application.pdb
+D:\Project\InBytes-BotFramework\InBytesBot\bin\FootballData.dll
+D:\Project\InBytes-BotFramework\InBytesBot\bin\FootballData.pdb

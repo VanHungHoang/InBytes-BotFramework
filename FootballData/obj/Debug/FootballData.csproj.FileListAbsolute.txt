@@ -1,0 +1,15 @@
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\FootballData\bin\Debug\FootballData.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\FootballData\bin\Debug\FootballData.pdb
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\FootballData\obj\Debug\FootballData.csprojResolveAssemblyReference.cache
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\FootballData\obj\Debug\FootballData.dll
+C:\Users\dave\Documents\Visual Studio 2015\Projects\InBytes\FootballData\obj\Debug\FootballData.pdb
+D:\Project\InBytes-BotFramework\InBytes-BotFramework\FootballData\bin\Debug\FootballData.dll
+D:\Project\InBytes-BotFramework\InBytes-BotFramework\FootballData\bin\Debug\FootballData.pdb
+D:\Project\InBytes-BotFramework\InBytes-BotFramework\FootballData\obj\Debug\FootballData.csprojResolveAssemblyReference.cache
+D:\Project\InBytes-BotFramework\InBytes-BotFramework\FootballData\obj\Debug\FootballData.dll
+D:\Project\InBytes-BotFramework\InBytes-BotFramework\FootballData\obj\Debug\FootballData.pdb
+D:\Project\InBytes-BotFramework\FootballData\bin\Debug\FootballData.dll
+D:\Project\InBytes-BotFramework\FootballData\bin\Debug\FootballData.pdb
+D:\Project\InBytes-BotFramework\FootballData\obj\Debug\FootballData.csprojResolveAssemblyReference.cache
+D:\Project\InBytes-BotFramework\FootballData\obj\Debug\FootballData.dll
+D:\Project\InBytes-BotFramework\FootballData\obj\Debug\FootballData.pdb
